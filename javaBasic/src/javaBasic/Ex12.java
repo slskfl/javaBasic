@@ -17,7 +17,7 @@ public class Ex12 {
 				System.out.println("------------------");
 				System.out.println("1.증속 | 2.감속 | 3.중지");
 				System.out.println("------------------");
-				System.out.println("선택 :");
+				System.out.print("선택 :");
 			}
 			
 			keyCode = System.in.read();
